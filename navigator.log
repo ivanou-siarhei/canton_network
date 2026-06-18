@@ -1,4 +1,4 @@
-22:21:14.803 [main] INFO  com.daml.navigator.config.Config$ - Loading SDK config file from /daml.yaml 
+
 22:21:14.810 [main] INFO  com.daml.navigator.config.Config$ - SDK config does not exist. Falling back to Navigator config file. 
 22:21:14.873 [main] INFO  com.daml.navigator.config.Config$ - No config file found. Using default config 
 22:21:15.347 [da-ui-backend-pekko.actor.default-dispatcher-4] INFO  o.a.pekko.event.slf4j.Slf4jLogger - Slf4jLogger started 
